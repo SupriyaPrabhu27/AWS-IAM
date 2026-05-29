@@ -1,6 +1,10 @@
-CREATE AN ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER
+AWS IAM
 AIM
-   To Create an Account in AWS Set up a Root user and an IAM user.
+   Explore pre-created IAM users and groups.
+   Inspect IAM policies as applied to the pre-created groups.
+   Follow a real-world scenario,adding users to groups with specific capabilities enabled.
+   Locate and used the IAM sign-in URL.
+   Experimented with the effects of policies on service access.
 PROBLEM STATEMENT
 Explain about the Experiment.
 ALGORITHM
